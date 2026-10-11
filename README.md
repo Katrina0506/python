@@ -1,1 +1,1 @@
-# -
+通过chatgpt生成了python入门课程
