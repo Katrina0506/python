@@ -1,3 +1,3 @@
-通过chatgpt生成了python入门课程
+通过codex生成了python入门课程
 课程与练习在第三个分支中
 答案在第二个分支
